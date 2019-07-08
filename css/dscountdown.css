@@ -59,7 +59,7 @@
 }
 }
 @media screen and (max-width:991px){
-.w3-heading h3 {
+.i-heading h3 {
     letter-spacing: 4px;
 }
 }
@@ -67,7 +67,7 @@
 	.ds-black .ds-element-value {
 		font-size: 2.7em;
 	}	s
-	.w3l-dot {
+	.il-dot {
     padding: 0em 0em 0em 0!important;
   }
 	
@@ -125,7 +125,7 @@
 	.ds-black .ds-element {
     width: 25%;
   }
-  .w3-heading h4 {
+  .i-heading h4 {
     font-size: 1.5em;
 }
 .ds-black .ds-element {
@@ -151,7 +151,7 @@
 .ds-black .ds-element-value {
     margin-left: 11px;
 }
-.w3-heading h4 {
+.i-heading h4 {
     font-size: 1.2em;
 }
 }

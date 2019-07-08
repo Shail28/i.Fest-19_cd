@@ -49,43 +49,43 @@ font-family: 'Open Sans Condensed', sans-serif;
 .main-agile {
     padding: 1.5em 0;
 }
-.w3ls-grids{
+.if-grids{
     width: 70%;
     margin-left: 15%;
 }
-.w3ls-left{
+.if-left{
     float: left;
     width: 57.5%;
     text-align: center;
 }
-.w3ls-dot{
+.if-dot{
 	padding: 2em 2em;
 }
-.w3ls-left h2{
+.if-left h2{
     color: #FFFFFF;
     font-size: 1.2em;
     margin: 1em 0 0 0;
 }
-.w3ls-right{
+.if-right{
     float: left;
     width: 37.5%;
     padding-right: 5%;
 }
-.w3-heading h6 {
+.i-heading h6 {
     font-size: 1.2em;
     color: #fff;
 	line-height: 1.5em;
 	letter-spacing: 2px;
 	text-align: center;
 }
-.w3-heading h5 {
+.i-heading h5 {
     font-size: 2em;
     color: #fff;
 	line-height: 1.5em;
 	letter-spacing: 2px;
 	text-align: center;
 }
-.w3-heading p{
+.i-heading p{
     font-size: 1.5em;
     margin: 1em 0 0 0;
 	color: #d5cae2;
@@ -93,15 +93,15 @@ font-family: 'Open Sans Condensed', sans-serif;
     letter-spacing: 1px;
     padding-top: 30px;
 }
-.w3-heading a{
+.i-heading a{
     color: #d5cae2;
     transition: ease-in-out .3s;
 }
-.w3-heading a:hover{
+.i-heading a:hover{
     color:#fff;
     transition: ease-in-out .3s;
 }
-.w3l-dot {
+.il-dot {
     padding: 4em 0em 2em 0;
 }
 .social{
@@ -368,7 +368,7 @@ font-family: 'Open Sans Condensed', sans-serif;
 @media(max-width:1280px){
 }
 @media(max-width:1080px){
-.w3-heading h3 {
+.i-heading h3 {
     letter-spacing: 7px;
 }
 .content3 {
@@ -376,18 +376,18 @@ font-family: 'Open Sans Condensed', sans-serif;
 }
 }
 @media(max-width:1024px){
-.w3-heading h3 {
+.i-heading h3 {
     letter-spacing: 6px;
 }
 }
 @media(max-width:991px){
 }
 @media(max-width:800px){
-.w3ls-right {
+.if-right {
     float: none;
     width: 100%;
 }
-.w3ls-left {
+.if-left {
     float: none;
     width: 100%;
 }
@@ -427,26 +427,26 @@ h1 {
 	height: 100%;
 	width: 100%;
 }
-.w3l-dot{
+.il-dot{
     padding-top: 2em;
 }
-.w3-heading h3 {
+.i-heading h3 {
     font-size: 2em;
 }
-.w3-heading h6 {
+.i-heading h6 {
     font-size: 1em;
 }
-.w3-heading h5 {
+.i-heading h5 {
     font-size: 1.5em;
 }
-.w3-heading p {
+.i-heading p {
     font-size: 1.3em;
 }
 .content3 {
     right: 7%;
     bottom: 16%;
 }
-.w3ls-grids {
+.if-grids {
     width: 90%;
     margin: 2em auto;
 }
@@ -485,10 +485,10 @@ h1 {
 	h1 {
     letter-spacing: 3px;
 }
-.w3-heading h4 {
+.i-heading h4 {
     font-size: 1.2em;
 }
-.w3-heading h4 {
+.i-heading h4 {
     font-size: 1.2em;
 }
 }

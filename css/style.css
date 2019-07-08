@@ -28,7 +28,7 @@ body {
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-   font-family: 'Open Sans', sans-serif;
+   font-family: 'Varela Round', sans-serif;
 }
 h1 {
     font-size: 3em;
@@ -37,7 +37,7 @@ h1 {
     font-weight: 800;
     /* text-transform: uppercase; */
     letter-spacing: 7px;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Varela Round', sans-serif;
 }
 h1 span {
     color: #d5cae2;
@@ -149,6 +149,13 @@ font-family: 'Open Sans Condensed', sans-serif;
 
 .icon {
     text-align: center;
+}
+.logo1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 390px;
+    height: 130px;
 }
 .icon span.fa {
     font-size: 40px;
@@ -479,6 +486,13 @@ h1 {
 }
 .eventname p{
     font-size: 15px;
+}
+.logo1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 240px;
+    height: 80px;
 }
 }
 @media(max-width:414px){

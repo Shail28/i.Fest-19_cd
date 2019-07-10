@@ -20,9 +20,9 @@
 	margin: 2em 0;
 	padding:1em 0;
 }
-.ds-element.ds-element-minutes {
+/* .ds-element.ds-element-minutes {
     margin: 2em 1em;
-}
+} */
 .dsCountDown.ds-black > .ds-element.ds-element-seconds {
 	margin-right: 0;
 	padding-right: 0;
@@ -42,16 +42,11 @@
     letter-spacing: 2px;
 	line-height: 1.2em;
 	font-weight: 600;
-	writing-mode: vertical-rl;
-    text-orientation: upright;
-    margin-left: 45px;
-}
-.ds-element-value.ds-days{
-	font-weight:700;
-	color:#fff;
-	writing-mode: vertical-rl;
-    text-orientation: upright;
-    margin-left: 45px;
+	/* writing-mode: vertical-rl; */
+    /* text-orientation: upright; */
+	/* margin-left: 45px; */
+	text-align: center;
+	border: 2px solid;
 }
 @media screen and (max-width: 1024px){
 .ds-black .ds-element {

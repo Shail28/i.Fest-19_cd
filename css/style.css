@@ -57,6 +57,7 @@ font-family: 'Open Sans Condensed', sans-serif;
     float: left;
     width: 57.5%;
     text-align: center;
+    padding: 1em 0em 1em 0em;
 }
 .if-dot{
 	padding: 2em 2em;
@@ -76,14 +77,8 @@ font-family: 'Open Sans Condensed', sans-serif;
     color: #fff;
 	line-height: 1.5em;
 	letter-spacing: 2px;
-	text-align: center;
-}
-.i-heading h5 {
-    font-size: 2em;
-    color: #fff;
-	line-height: 1.5em;
-	letter-spacing: 2px;
-	text-align: center;
+    text-align: center;
+    font-weight: 200;
 }
 .i-heading p{
     font-size: 1.5em;
@@ -92,13 +87,14 @@ font-family: 'Open Sans Condensed', sans-serif;
 	line-height: 1.8em;
     letter-spacing: 1px;
     padding-top: 30px;
+    font-weight: 600;
 }
 .i-heading a{
-    color: #d5cae2;
+    color: #fff;
     transition: ease-in-out .3s;
 }
 .i-heading a:hover{
-    color:#fff;
+    color:#d5cae2;
     transition: ease-in-out .3s;
 }
 .il-dot {
@@ -107,6 +103,7 @@ font-family: 'Open Sans Condensed', sans-serif;
 .social{
     width: 100%;
     text-align: center;
+    margin-top: 5%;
 }
 .social i.fa{
     font-size:20px;
@@ -189,6 +186,11 @@ font-family: 'Open Sans Condensed', sans-serif;
     color: #d5cae2;
 }
 .detai p{
+    color: #fff;
+    font-size: 25px;
+    padding-top: 10px;
+}
+.detai .last p{
     color: #fff;
     font-size: 25px;
     padding-top: 10px;
@@ -429,6 +431,9 @@ font-family: 'Open Sans Condensed', sans-serif;
 @media(max-width:480px){
 h1 {
     font-size: 1.8em;
+}
+.detai p.last{
+    padding-bottom: 15%;
 }
 .spon-grid li img{
 	height: 100%;
